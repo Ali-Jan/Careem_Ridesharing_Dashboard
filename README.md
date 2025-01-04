@@ -90,7 +90,7 @@ The dataset used for this project was hypothetical and structured but required s
 
 1. **Clone this Repository:**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ali-Jan/Careem_Ridesharing_Dashboard.git>
    ```
 
 2. **Open the Power BI File:**
@@ -111,13 +111,12 @@ The dataset used for this project was hypothetical and structured but required s
 Include screenshots of key tabs here (replace placeholders with actual images):
 
 1. **Overall Tab:**
-   ![Overall Tab](path/to/image)
+   ![Screenshot (4)](https://github.com/user-attachments/assets/5c772ba6-dd6e-4c6d-a11f-8775b4cf8a4b)
 
 2. **Revenue Tab:**
-   ![Revenue Tab](path/to/image)
-
+![Screenshot (5)](https://github.com/user-attachments/assets/5ab10aa8-6faa-4f72-90d1-f696c32babdd)
 3. **Cancellation Tab:**
-   ![Cancellation Tab](path/to/image)
+   ![Screenshot (6)](https://github.com/user-attachments/assets/71bcb2a5-5b88-492f-a65a-81b2ae5edd43)
 
 ---
 
@@ -146,4 +145,3 @@ Your feedback is invaluable! If you have suggestions or want to collaborate, fee
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
