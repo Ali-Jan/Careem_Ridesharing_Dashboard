@@ -1,4 +1,4 @@
-# Careem Ridsharing Dashboard
+# Careem Ridesharing Dashboard
 
 ## Overview
 
@@ -66,7 +66,7 @@ The dataset used for this project was hypothetical and structured but required s
 
 2. **Data Transformation:**
    - Created calculated columns and measures using **DAX** for key metrics such as success rates, cancellation rates, and revenue breakdowns.
-   - Merged, grouped, and aggregated data to fit the requirements of each tab.
+   - Merged, grouped and aggregated data to fit the requirements of each tab.
 
 3. **Data Enrichment:**
    - Derived additional fields (e.g., average distance traveled, revenue by customer) for better insights.
