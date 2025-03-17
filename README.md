@@ -138,10 +138,6 @@ I am actively seeking roles in **Data Analytics**, **Business Intelligence**, or
 
 ## Feedback and Collaboration
 
-Your feedback is invaluable! If you have suggestions or want to collaborate, feel free to reach out or open an issue in this repository.
+Your feedback is invaluable! If you have suggestions or want to collaborate, feel free to reach out at www.linkedin.com/in/AliJanAli3131.
 
----
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
